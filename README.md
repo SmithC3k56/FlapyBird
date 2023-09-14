@@ -1,0 +1,3 @@
+# FlapyBird
+
+using Cocos creator
